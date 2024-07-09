@@ -1,7 +1,7 @@
 # MERN Ecommerce Platform
 
 Welcome to our MERN stack ecommerce platform! This project integrates third-party APIs and provides distinct user flows for buyers, sellers, and admins.
-
+C:\Users\rzia5\OneDrive\Desktop\mern-ecommerceapp\1.png
 ## Features
 
 - **Buyer Flow:** Browse categories, products, and brands.
